@@ -6,7 +6,7 @@ GEM
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     pg (1.1.4)
-    rack (2.0.7)
+    rack (2.1.4)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -28,7 +28,7 @@ PLATFORMS
 DEPENDENCIES
   nokogiri
   pg
-  rack (~> 2.0.1)
+  rack (~> 2.1.4)
   rspec
   sqlite3
 
